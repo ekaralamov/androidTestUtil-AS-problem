@@ -1,0 +1,3 @@
+rootProject.name='androidTestUtil AS Problem'
+include ':app'
+include ':testbuddy'
